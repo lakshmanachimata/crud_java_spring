@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CRUD APP",
+            "request": "launch",
+            "mainClass": "com.nearhop.crud.CrudApplication",
+            "projectName": "crud",
+            "args": "",
+            "vmArgs": "-Dspring.profiles.active=dev",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole"
+        }
+    ]
+}
