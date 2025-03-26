@@ -1,6 +1,0 @@
-com/nearhop/crud/controller/UserController.class
-com/nearhop/crud/config/OpenApiConfig.class
-com/nearhop/crud/repository/UserRepository.class
-com/nearhop/crud/service/UserService.class
-com/nearhop/crud/model/User.class
-com/nearhop/crud/CrudApplication.class
