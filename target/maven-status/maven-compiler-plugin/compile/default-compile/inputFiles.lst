@@ -1,4 +1,5 @@
 /Users/lakshmana/projects/prep/crud_java_spring/src/main/java/com/nearhop/crud/CrudApplication.java
+/Users/lakshmana/projects/prep/crud_java_spring/src/main/java/com/nearhop/crud/config/OpenApiConfig.java
 /Users/lakshmana/projects/prep/crud_java_spring/src/main/java/com/nearhop/crud/controller/UserController.java
 /Users/lakshmana/projects/prep/crud_java_spring/src/main/java/com/nearhop/crud/model/User.java
 /Users/lakshmana/projects/prep/crud_java_spring/src/main/java/com/nearhop/crud/repository/UserRepository.java
